@@ -55,6 +55,8 @@ Sistem; Spring Boot Web, Thymeleaf ve Java Concurrency (`ScheduledExecutorServic
             ├── application.properties
             └── templates/
                 └── dashboard.html           # Canlı İzleme ve Kontrol Paneli
+```
+
 🐳 Docker Komutları ve Çalıştırma
 Projenin derlenmesinden konteyner seviyesinde yönetimine kadar kullanabileceğiniz temel komutlar:
 
